@@ -12,7 +12,7 @@ int main()
         {
             int c = sum - a - b;
             if ( a*a + b*b == c*c )
-               cout<<"a = "<<a<<", b = "<<b<<", c = "<<c;
+               cout<<a*b*c;
         }
     }
     return 0;
